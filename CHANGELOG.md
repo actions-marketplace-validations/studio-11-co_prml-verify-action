@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.3.3 — 2026-11-02
+
+- Default `falsify` pin 0.5.2 → 0.5.3 (repository links moved to the `falsify-dev` GitHub organisation; no behaviour change).
+- Repository links in package metadata and docs point to the `falsify-dev` GitHub organisation. No behaviour change.
+
 ## v2.3.2 — 2026-10-31
 
 ### Changed
